@@ -406,7 +406,7 @@ html {
 }
 
 body {
-	background: #fff; /* Fallback for when there is no custom background color defined. */
+	background: #efefef; /* Fallback for when there is no custom background color defined. */
 }
 
 blockquote:before,
@@ -682,7 +682,7 @@ textarea {
 
 /*-- Search */
 .search-toggle {
-	background: #fee85d;
+	background: #ff0000;
     cursor: pointer;
     height: 39px;
     text-align: center;
@@ -875,7 +875,7 @@ div#content {
     text-transform: uppercase;
 }
 .single .posted-on time.entry-date.published {
-    background: #fee85d;
+    background: #ff0000;
     padding: 3px 10px;
 }
 .single .byline a.url.fn.n {
@@ -1285,7 +1285,7 @@ a:active {
 }
 .social-navigation a:hover,
 .social-navigation a:hover:before {
-	color: #fee85d;
+	color: #ff0000;
 }
 .social-navigation a:before {
 	color: #fff;
@@ -1577,7 +1577,7 @@ td#next {
 
 /* Search */
 .widget_search .search-submit {
-	background: #fee85d;
+	background: #ff0000;
 	padding: 4px 10px;
 	float: right;
 }
@@ -1800,7 +1800,7 @@ td#next {
 }
 .entry-content a.button {
 	border: none;
-	background: #fee85d;
+	background: #ff0000;
 	color: #000;
 	padding: 8px 15px;
 	text-transform: uppercase;
@@ -1811,7 +1811,7 @@ td#next {
 	text-decoration: underline;
 }
 span.color {
-	color: #fee85d;
+	color: #ff0000;
 }
 .frontpage .widgetized-content .widget,
 .top .widgetized-content .widget {
@@ -1843,7 +1843,7 @@ span.color {
 	padding: 20px;
 }
 .promo a {
-	background: #fee85d;
+	background: #ff0000;
 	color: #000;
 	float: right;
 	font-size: 18px;
@@ -1852,7 +1852,7 @@ span.color {
 	text-transform: uppercase;
 }
 .button {
-    background: #fee85d;
+    background: #ff0000;
     color: #000;
     font-size: 18px;
     font-size: 1.125rem;
@@ -1867,7 +1867,7 @@ span.color {
 	margin-bottom: 20px;
 }
 .custom .promo a {
-	background: #fee85d;
+	background: #ff0000;
 	color: #000;
 	float: right;
 	padding: 22px 18px;
@@ -2069,7 +2069,7 @@ span.color {
 	color: #fff;
 }
 .link--kukuri:hover {
-	color: #fee85d;
+	color: #ff0000;
 }
 .link--kukuri::after {
 	content: '';
@@ -2096,7 +2096,7 @@ span.color {
 	position: absolute;
 	z-index: 2;
 	overflow: hidden;
-	color: #fee85d;
+	color: #ff0000;
 	white-space: nowrap;
 	width: 0%;
 	-webkit-transition: width 0.4s 0.3s;
@@ -2236,7 +2236,7 @@ h2.comments-title {
 #main .soliloquy-container.soliloquy-theme-karisma .soliloquy-controls-auto-item a:hover,
 #page .soliloquy-container.soliloquy-theme-karisma .soliloquy-controls-direction a:hover, 
 #page .soliloquy-container.soliloquy-theme-karisma .soliloquy-controls-auto-item a:hover {
-    background: #fee85d;
+    background: #ff0000;
 }
 
 /* WooCommerce */
@@ -2281,7 +2281,7 @@ h2.comments-title {
 .woocommerce ul.products li.product .price, 
 .woocommerce div.product p.price, 
 .woocommerce div.product span.price {
-    background: #fee85d;
+    background: #ff0000;
     border: 2px solid #000;
 	color: #000;
     padding: 0 10px;
@@ -2291,7 +2291,7 @@ h2.comments-title {
 	display: inline-block;
 }
 .woocommerce span.onsale {
-    background-color: #fee85d;
+    background-color: #ff0000;
     color: #000;
 	border-radius: 0;
 }
@@ -2338,11 +2338,11 @@ h2.comments-title {
     margin: 0;
 }
 .woocommerce .woocommerce-message {
-    border-top-color: #fee85d;
+    border-top-color: #ff0000;
 }
 .woocommerce .woocommerce-message:before,
 .woocommerce .woocommerce-info:before {
-    color: #fee85d;
+    color: #ff0000;
 }
 .woocommerce-checkout #payment {
 	background: transparent;
@@ -2365,7 +2365,7 @@ h2.comments-title {
     color: #000;
 }
 .woocommerce .star-rating span:before {
-    color: #fee85d;
+    color: #ff0000;
 }
 .woocommerce .woocommerce-ordering select {
     background: #fff;
@@ -2373,7 +2373,7 @@ h2.comments-title {
     height: 30px;
 }
 .woocommerce .woocommerce-info {
-    border-top-color: #fee85d;
+    border-top-color: #ff0000;
 }
 .woocommerce-cart table.cart td.actions .coupon .input-text {
     border: 2px solid #000;
@@ -2389,7 +2389,7 @@ nav.woocommerce-breadcrumb a {
 }
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range {
-    background-color: #fee85d;
+    background-color: #ff0000;
 }
 .woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
 	background-color: #000;
@@ -2796,7 +2796,7 @@ object {
 		display: block;
 	}
 	.search-toggle {
-		background: #fee85d;
+		background: #ff0000;
 		cursor: pointer;
 		float: right;
 		height: 39px;
