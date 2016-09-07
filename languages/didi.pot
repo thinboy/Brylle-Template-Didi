@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Didi\n"
+"POT-Creation-Date: 2016-07-29 12:33+0200\n"
+"PO-Revision-Date: 2016-07-29 12:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_nx;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smilie
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: admin/admin.php:7
+msgid "Welcome to Didi"
+msgstr ""
+
+#: admin/admin.php:7 inc/customizer.php:270
+msgid "Theme Info"
+msgstr ""
+
+#: admin/admin.php:17
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: admin/admin.php:22
+msgid "Find more about Didi"
+msgstr ""
+
+#: admin/admin.php:34 admin/admin.php:225
+msgid "Theme Screenshot"
+msgstr ""
+
+#: admin/admin.php:39
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: admin/admin.php:44 inc/customizer.php:347
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/admin.php:47
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: admin/admin.php:51 inc/customizer.php:251
+msgid "Visit Documentation"
+msgstr ""
+
+#: admin/admin.php:57 inc/customizer.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin.php:60
+msgid ""
+"Click \"Customize\" to open the Customizer. Didi has implemented Customizer "
+"and added some useful options to help you style theme background, color "
+"elements, upload image logo, to choose different blog layouts and a lot more."
+msgstr ""
+
+#: admin/admin.php:64
+msgid "Customize"
+msgstr ""
+
+#: admin/admin.php:70
+msgid "Didi Video Presentation"
+msgstr ""
+
+#: admin/admin.php:74 inc/customizer.php:256 inc/customizer.php:349
+msgid "Video Presentation"
+msgstr ""
+
+#: admin/admin.php:80
+msgid "Recommended Plugins"
+msgstr ""
+
+#: admin/admin.php:82
+msgid ""
+"Plugins listed are not mandatory for theme to work! Install only the ones "
+"you need for your website!"
+msgstr ""
+
+#: admin/admin.php:87
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/admin.php:88
+msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
+msgstr ""
+
+#: admin/admin.php:92 admin/admin.php:112 admin/admin.php:130
+#: admin/admin.php:149 admin/admin.php:171 admin/admin.php:188
+#: admin/admin.php:204
+msgid "Already activated"
+msgstr ""
+
+#: admin/admin.php:98
+msgid "Install WooCommerce"
+msgstr ""
+
+#: admin/admin.php:105
+msgid "Jetpack"
+msgstr ""
+
+#: admin/admin.php:106
+msgid ""
+"Bring the power of the WordPress.com cloud to your self-hosted WordPress. "
+"Jetpack enables you to connect your blog to a WordPress.com account to use "
+"the powerful features normally only available to WordPress.com users.\n"
+"\n"
+msgstr ""
+
+#: admin/admin.php:118
+msgid "Install Jetpack"
+msgstr ""
+
+#: admin/admin.php:125
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: admin/admin.php:126
+msgid ""
+"A drag and drop, responsive page builder that simplifies building your "
+"website."
+msgstr ""
+
+#: admin/admin.php:136
+msgid "Install Page Builder by SiteOrigin"
+msgstr ""
+
+#: admin/admin.php:144 admin/admin.php:155
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: admin/admin.php:145
+msgid "A collection of all widgets, neatly bundled into a single plugin."
+msgstr ""
+
+#: admin/admin.php:166
+msgid "Instagram widget by WPZOOM"
+msgstr ""
+
+#: admin/admin.php:167
+msgid ""
+"Fully customisable and responsive Instagram timeline widget for WordPress"
+msgstr ""
+
+#: admin/admin.php:177
+msgid "Install Instagram widget by WPZOOM"
+msgstr ""
+
+#: admin/admin.php:184
+msgid "Premium Soliloquy Slider"
+msgstr ""
+
+#: admin/admin.php:194
+msgid ""
+"Plugin & license key can be found inside the plugins folder within the main "
+"folder you downloaded"
+msgstr ""
+
+#: admin/admin.php:200
+msgid "Custom Google Fonts Plugin"
+msgstr ""
+
+#: admin/admin.php:210
+msgid ""
+"Plugin can be found inside the plugins folder within the main folder you "
+"downloaded"
+msgstr ""
+
+#: admin/admin.php:220 inc/customizer.php:261
+msgid "More Themes by Anariel Design"
+msgstr ""
+
+#: admin/admin.php:223
+msgid ""
+"Build Your Dream WordPress Site with Premium Niche Themes for Bloggers & "
+"Charities"
+msgstr ""
+
+#: admin/admin.php:228
+msgid "More Themes"
+msgstr ""
+
+#: admin/admin.php:237
+#, php-format
+msgid "%1s is proudly brought to you by %2s. %3s: %4s."
+msgstr ""
+
+#: admin/admin.php:237
+msgid "Theme Demo"
+msgstr ""
+
+#: author-bio.php:11
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:72
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Front Page First Block"
+msgstr ""
+
+#: functions.php:121
+msgid "Front Page Second Block"
+msgstr ""
+
+#: functions.php:131
+msgid "Front Page Third Block"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer Widgets 1"
+msgstr ""
+
+#: functions.php:151
+msgid "Footer Widgets 2"
+msgstr ""
+
+#: functions.php:161
+msgid "Footer Widgets 3"
+msgstr ""
+
+#: functions.php:183 functions.php:189
+msgid "on"
+msgstr ""
+
+#: functions.php:281
+#, php-format
+msgid ""
+"Continue reading <span class=\"screen-reader-text\">%1$s</span> <span class="
+"\"meta-nav\" aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:293
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: functions.php:339
+msgid "Edit"
+msgstr ""
+
+#: functions.php:344
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:50
+msgid "Menu"
+msgstr ""
+
+#: header.php:73 header.php:86
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Hide Search Box"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid ""
+"Choose the best blog layout for your site. You can have no sidebar, change "
+"the position of the sidebar, or select a grid layout. Also applies to "
+"archive pages."
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "No Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Right Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Left Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Two Column Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Two Column Grid Layout with Sidebar"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Three Column Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Post Display"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Full Length"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Hide post author and date from posts."
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Hide author bio (\"published by\" box)."
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Hide sidebar on main and single product page"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Check this box if you want to hide sidebar on main product page"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Check this box if you want to hide sidebar on single product page"
+msgstr ""
+
+#: inc/customizer.php:135 inc/customizer.php:143
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Upload your logo image"
+msgstr ""
+
+#: inc/customizer.php:152 inc/customizer.php:163
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "All Elements with Yellow Color"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "All Elements with Black Color"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "All Text Elements with White Color"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Copyright Settings"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "This is a settings section."
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Didi Theme by Anariel Design. All rights reserved"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Hide copyright text"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Theme Related Links:"
+msgstr ""
+
+#: inc/customizer.php:345
+msgid "Theme Info Page"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:26 inc/template-tags.php:95
+#: template-parts/content-front-page.php:31
+#: template-parts/content-page-full-image.php:14
+#: template-parts/content-page-full-image.php:30
+#: template-parts/content-page.php:21 template-parts/content-page.php:37
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "by %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:83 inc/template-tags.php:89
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:85
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:91
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/widgets.php:15
+msgid "Promo Block"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "Didi: Promo Block"
+msgstr ""
+
+#: inc/widgets.php:53 inc/widgets.php:149 inc/widgets.php:234
+#: inc/widgets.php:296 inc/widgets.php:363
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:55 inc/widgets.php:242 inc/widgets.php:302
+#: inc/widgets.php:369
+msgid "Text Part"
+msgstr ""
+
+#: inc/widgets.php:57 inc/widgets.php:238
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets.php:59 inc/widgets.php:240
+msgid "Button Link"
+msgstr ""
+
+#: inc/widgets.php:70
+msgid "Two, Three or Four Column Recent Post Widget"
+msgstr ""
+
+#: inc/widgets.php:71
+msgid "Didi Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:151
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:153
+msgid "Number of columns to show:"
+msgstr ""
+
+#: inc/widgets.php:166
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets.php:188
+msgid "Background Image with Text Hover Effect"
+msgstr ""
+
+#: inc/widgets.php:189
+msgid "Didi: Background Image with Text Hover Effect"
+msgstr ""
+
+#: inc/widgets.php:236 inc/widgets.php:298 inc/widgets.php:365
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets.php:253
+msgid "Background Image with Text"
+msgstr ""
+
+#: inc/widgets.php:254
+msgid "Didi: Background Image with Text"
+msgstr ""
+
+#: inc/widgets.php:300 inc/widgets.php:367
+msgid "Heading"
+msgstr ""
+
+#: inc/widgets.php:313
+msgid "Background Image with Text and Button"
+msgstr ""
+
+#: inc/widgets.php:314
+msgid "Didi: Background Image with Text and Button"
+msgstr ""
+
+#: inc/widgets.php:371
+msgid "Button Link URL"
+msgstr ""
+
+#: inc/widgets.php:373
+msgid "Button Link Text"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:18 single.php:41
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr ""
+
+#: single.php:18 single.php:41
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr ""
+
+#: template-parts/content-default.php:35
+#: template-parts/content-grid-three.php:36
+#: template-parts/content-grid-two.php:36 template-parts/content-grid.php:30
+#: template-parts/content.php:43
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-default.php:43
+#: template-parts/content-front-page.php:23
+#: template-parts/content-grid-page.php:31
+#: template-parts/content-grid-three.php:44
+#: template-parts/content-grid-two.php:44 template-parts/content-grid.php:37
+#: template-parts/content-page-full-image.php:22
+#: template-parts/content-page.php:29 template-parts/content-single.php:34
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
